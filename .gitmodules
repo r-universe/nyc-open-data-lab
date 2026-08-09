@@ -5,3 +5,6 @@
 [submodule "SeattleOpenData"]
 	path = SeattleOpenData
 	url = https://github.com/nyc-open-data-lab/seattleopendata
+[submodule "cincinnatiOpenData"]
+	path = cincinnatiOpenData
+	url = https://github.com/nyc-open-data-lab/cincinnatiopendata
