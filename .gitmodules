@@ -5,12 +5,24 @@
 [submodule "SeattleOpenData"]
 	path = SeattleOpenData
 	url = https://github.com/nyc-open-data-lab/seattleopendata
+[submodule "chiOpenData"]
+	path = chiOpenData
+	url = https://github.com/nyc-open-data-lab/chiopendata
 [submodule "cincinnatiOpenData"]
 	path = cincinnatiOpenData
 	url = https://github.com/nyc-open-data-lab/cincinnatiopendata
 [submodule "ctOpenData"]
 	path = ctOpenData
 	url = https://github.com/nyc-open-data-lab/ctopendata
+[submodule "laOpenData"]
+	path = laOpenData
+	url = https://github.com/nyc-open-data-lab/laopendata
+[submodule "mtaOpenData"]
+	path = mtaOpenData
+	url = https://github.com/nyc-open-data-lab/mtaopendata
 [submodule "nolaOpenData"]
 	path = nolaOpenData
 	url = https://github.com/nyc-open-data-lab/nolaopendata
+[submodule "nysOpenData"]
+	path = nysOpenData
+	url = https://github.com/nyc-open-data-lab/nysopendata
