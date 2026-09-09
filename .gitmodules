@@ -26,3 +26,6 @@
 [submodule "nysOpenData"]
 	path = nysOpenData
 	url = https://github.com/nyc-open-data-lab/nysopendata
+[submodule "sfOpenData"]
+	path = sfOpenData
+	url = https://github.com/nyc-open-data-lab/sfopendata
