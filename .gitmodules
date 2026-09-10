@@ -5,6 +5,9 @@
 [submodule "SeattleOpenData"]
 	path = SeattleOpenData
 	url = https://github.com/nyc-open-data-lab/seattleopendata
+[submodule "ausOpenData"]
+	path = ausOpenData
+	url = https://github.com/nyc-open-data-lab/ausopendata
 [submodule "chiOpenData"]
 	path = chiOpenData
 	url = https://github.com/nyc-open-data-lab/chiopendata
