@@ -14,6 +14,9 @@
 [submodule "cincinnatiOpenData"]
 	path = cincinnatiOpenData
 	url = https://github.com/nyc-open-data-lab/cincinnatiopendata
+[submodule "coOpenData"]
+	path = coOpenData
+	url = https://github.com/nyc-open-data-lab/coopendata
 [submodule "ctOpenData"]
 	path = ctOpenData
 	url = https://github.com/nyc-open-data-lab/ctopendata
